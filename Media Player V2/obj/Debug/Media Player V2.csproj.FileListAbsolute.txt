@@ -1,0 +1,133 @@
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\Media Player V2.exe.config
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\Media Player V2.exe
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\Media Player V2.pdb
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media Player V2.exe
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media Player V2.pdb
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\Interop.AXVLC.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Interop.AXVLC.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.Form1.resources
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\MetroFramework.Design.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\MetroFramework.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+F:\Documents\Visual Studio 2015\Projects\CSharp\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.UC_Player.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\MetroFramework.Design.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\MetroFramework.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media Player V2.csprojResolveAssemblyReference.cache
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.Form1.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.FRM_FIND.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.FRM_INFO.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.Intro.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V2\Media Player V2\obj\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\MetroFramework.Design.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\MetroFramework.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.Form1.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.FRM_FIND.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.FRM_INFO.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.FRM_Listnhac.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.FRM_TaoListNhac.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.Intro.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media Player V2.csprojResolveAssemblyReference.cache
+G:\Desktop\Player\Media Player V3\Media Player V2\obj\Debug\Media_Player_V2.FRM_CloseProGram.resources
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media Player V2.pdb
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media Player V2.csprojResolveAssemblyReference.cache
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_MAIN.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_CloseProGram.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_FIND.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_INFO.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_Listnhac.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_TaoListNhac.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\Media Player V2.exe
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\Media Player V2.pdb
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\MetroFramework.Design.dll
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\MetroFramework.dll
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\New folder\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\New folder\Media Player V2\obj\Debug\Media_Player_V2.FRM_Intro.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\MetroFramework.Design.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\MetroFramework.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_MAIN.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_CLOSEPROGRAM.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_FIND.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_INFO.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_LISTNHAC.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_TAOLISTNHAC.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_INTRO.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V5 - Copy\Media Player V2\obj\Debug\Media Player V2.csprojResolveAssemblyReference.cache
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\Media Player V2.pdb
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\MetroFramework.Design.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\MetroFramework.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\MetroFramework.Fonts.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Interop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\AxInterop.AXVLC.dll
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_MAIN.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_CLOSEPROGRAM.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_FIND.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_INFO.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_LISTNHAC.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_TAOLISTNHAC.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.FRM_INTRO.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.Properties.Resources.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media_Player_V2.UserControl_TrinhDieuKhien.resources
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.csproj.GenerateResource.Cache
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.pdb
+G:\Desktop\New folder (5)\Player\Media Player V5 - Main - Copy\Media Player V2\bin\Debug\Media Player V2.exe.config
+G:\Desktop\New folder (5)\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.csproj.ResolveComReference.cache
+G:\Desktop\New folder (5)\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.exe
+G:\Desktop\New folder (5)\Player\Media Player V5 - Main - Copy\Media Player V2\obj\Debug\Media Player V2.pdb

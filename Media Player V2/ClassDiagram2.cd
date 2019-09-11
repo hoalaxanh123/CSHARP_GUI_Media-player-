@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Media_Player_V2.File" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAMACAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_CLOSEPROGRAM" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYFIIEAASIAAAAjAEGACAACAAAAJDDACAAABBAFAAA=</HashCode>
+      <FileName>FRM_CLOSEPROGRAM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_FIND" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYgGAAAACQAABAAgACAAAACAAAABAAAAEAAAAAAAAA=</HashCode>
+      <FileName>FRM_FIND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_INFO" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAABAAAACAAAADAAAkCAAASAABAABABAA=</HashCode>
+      <FileName>FRM_INFO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_INTRO" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAiAAAQCAAAAIAAQBAAIAABAAAE=</HashCode>
+      <FileName>FRM_INTRO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_LISTNHAC" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQIAiAFRgKIgAIAgABCgSAECxgAQBCAhgKABAoAJASA=</HashCode>
+      <FileName>FRM_LISTNHAC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_MAIN" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>l6DgEGktHqgAAqRiQCCJSAQKaogQwQUhhvcNSIYFADk=</HashCode>
+      <FileName>FRM_MAIN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.FRM_TAOLISTNHAC" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAASIAABAAQACAAAACAAAQBCIAAAAAAAAAIAA=</HashCode>
+      <FileName>FRM_TAOLISTNHAC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.ListNhac" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAQEAAACAAgAAAAAAAAAAAQAAAAAAAAgBA=</HashCode>
+      <FileName>ListNhac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.Program" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.QuanLyListNhac" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAQAACBAAAAAAAAAAAQAAAAEAAAAAAEA=</HashCode>
+      <FileName>QuanLyListNhac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Media_Player_V2.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WMPLib.WindowsMediaPlayer">
+    <Position X="2.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WMPLib\WindowsMediaPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
